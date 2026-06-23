@@ -1092,7 +1092,7 @@ def page_dashboard():
                 showlegend=True,
                 legend=dict(orientation="v", x=1.05),
             )
-            st.plotly_chart(chart_layout(fig2, 320, "👥 Within Month Attrition"),
+            st.plotly_chart(chart_layout(fig2, 320, "👥 Status of Employees"),
                             use_container_width=True, config={"displayModeBar":False}, key="d_status_pie")
         st.markdown('</div>', unsafe_allow_html=True)
 

@@ -1,0 +1,151 @@
+Emp Code,Employee Name,DOJ,Department,Employment Status,Resignation Date,Exit Date,New Joining,Resign,F&F,PF,ESIC,PT,LWF,S&E,Trade,Form A under POG Act,Appointment Letter,KYC (PAN+Aadhar+Bank),PF Form,ESIC Form,BGV,Location,Profile Position,Recruiter Name,Profile Source,Remarks
+PUK1000,Employee 1,2022-11-01,Sales,Active,,,DONE,,,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Pune,Legal Advisor,Amit Verma,Campus,Documents pending
+PUK1001,Employee 2,2024-11-10,Sales,Hold,,,DONE,,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Delhi,Legal Advisor,Priya Sharma,Walk-in,
+PUK1002,Employee 3,2021-10-08,Operations,Notice Period,2024-08-13,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Pune,HR Executive,Neha Singh,Indeed,
+PUK1003,Employee 4,2023-06-05,Finance,Notice Period,2025-08-14,,DONE,DONE,,DONE,N/A,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,N/A,Chennai,Marketing Manager,Amit Verma,Indeed,Follow up needed
+PUK1004,Employee 5,2024-03-14,Finance,Notice Period,2027-08-05,,DONE,DONE,,DONE,DONE,DONE,DONE,N/A,DONE,DONE,,DONE,DONE,DONE,DONE,Pune,Accountant,Rahul Gupta,Walk-in,
+PUK1005,Employee 6,2024-04-05,Admin,Active,,,DONE,,,N/A,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,Pune,Software Developer,Neha Singh,LinkedIn,Documents pending
+PUK1006,Employee 7,2025-10-28,IT,Hold,,,DONE,,,DONE,DONE,DONE,DONE,N/A,N/A,N/A,DONE,DONE,DONE,DONE,N/A,Bangalore,Operations Manager,Priya Sharma,LinkedIn,Documents pending
+PUK1007,Employee 8,2025-12-23,Admin,Active,,,DONE,,,N/A,DONE,DONE,,N/A,DONE,DONE,DONE,,,DONE,,Pune,Software Developer,Rahul Gupta,Indeed,Verified
+PUK1008,Employee 9,2024-04-29,Admin,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,,,DONE,DONE,Pune,Admin Officer,Amit Verma,Walk-in,
+PUK1009,Employee 10,2022-05-13,Admin,Exited,2026-06-01,2026-07-31,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,,Delhi,Operations Manager,Amit Verma,LinkedIn,Documents pending
+PUK1010,Employee 11,2023-11-27,Legal,Active,,,DONE,,,DONE,N/A,DONE,,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,Hyderabad,Admin Officer,Rahul Gupta,LinkedIn,Follow up needed
+PUK1011,Employee 12,2026-02-02,Legal,Active,,,DONE,,,DONE,N/A,,DONE,DONE,,,DONE,DONE,DONE,DONE,DONE,Pune,Sales Executive,Sunita Rao,Naukri,
+PUK1012,Employee 13,2023-02-22,Finance,Active,,,DONE,,,DONE,N/A,DONE,DONE,N/A,DONE,N/A,DONE,DONE,DONE,DONE,,Chennai,Marketing Manager,Sunita Rao,LinkedIn,Verified
+PUK1013,Employee 14,2022-05-28,Operations,Active,,,DONE,,,DONE,DONE,DONE,N/A,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,Bangalore,HR Executive,Amit Verma,Referral,
+PUK1014,Employee 15,2025-07-14,IT,Active,,,DONE,,,N/A,DONE,DONE,,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,Chennai,Operations Manager,Sunita Rao,LinkedIn,Verified
+PUK1015,Employee 16,2022-11-12,IT,Hold,,,DONE,,,DONE,N/A,DONE,DONE,,DONE,DONE,DONE,,DONE,DONE,,Chennai,Sales Executive,Priya Sharma,Naukri,Verified
+PUK1016,Employee 17,2025-08-01,Marketing,Exited,2026-08-09,2026-10-08,DONE,DONE,DONE,DONE,DONE,N/A,,N/A,N/A,DONE,DONE,DONE,DONE,,DONE,Chennai,Accountant,Amit Verma,LinkedIn,
+PUK1017,Employee 18,2024-02-09,Finance,Active,,,DONE,,,DONE,N/A,,N/A,,DONE,,DONE,,,DONE,,Hyderabad,Marketing Manager,Sunita Rao,LinkedIn,
+PUK1018,Employee 19,2026-04-15,Legal,Notice Period,2028-03-10,,DONE,DONE,,N/A,N/A,DONE,DONE,DONE,N/A,DONE,,DONE,,DONE,N/A,Bangalore,Sales Executive,Priya Sharma,Walk-in,Follow up needed
+PUK1019,Employee 20,2024-06-25,Legal,Notice Period,2027-01-23,,DONE,DONE,,DONE,DONE,DONE,DONE,,DONE,N/A,DONE,DONE,DONE,DONE,DONE,Delhi,Marketing Manager,Neha Singh,Referral,Verified
+PUK1020,Employee 21,2021-08-31,IT,Active,,,DONE,,,DONE,DONE,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,,Bangalore,Software Developer,Amit Verma,Campus,Documents pending
+PUK1021,Employee 22,2023-01-07,Admin,Notice Period,2025-08-23,,DONE,DONE,,DONE,DONE,,N/A,,DONE,DONE,DONE,DONE,DONE,,DONE,Bangalore,Operations Manager,Amit Verma,LinkedIn,
+PUK1022,Employee 23,2026-02-28,Admin,Active,,,DONE,,,,DONE,N/A,DONE,,DONE,DONE,DONE,DONE,,,N/A,Hyderabad,Operations Manager,Amit Verma,Indeed,Documents pending
+PUK1023,Employee 24,2023-10-25,Operations,Active,,,,,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,,DONE,N/A,Hyderabad,Accountant,Rahul Gupta,Campus,
+PUK1024,Employee 25,2022-03-16,IT,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Delhi,Legal Advisor,Rahul Gupta,Referral,Documents pending
+PUK1025,Employee 26,2023-10-22,Sales,Active,,,DONE,,,DONE,N/A,DONE,,N/A,,DONE,DONE,DONE,DONE,,N/A,Hyderabad,Operations Manager,Rahul Gupta,LinkedIn,
+PUK1026,Employee 27,2023-12-23,Sales,Active,,,DONE,,,DONE,,,N/A,N/A,N/A,DONE,,DONE,DONE,DONE,DONE,Hyderabad,Accountant,Priya Sharma,Referral,Follow up needed
+PUK1027,Employee 28,2024-08-01,Admin,Active,,,DONE,,,,DONE,,,DONE,DONE,DONE,DONE,,DONE,DONE,,Pune,Sales Executive,Priya Sharma,LinkedIn,
+PUK1028,Employee 29,2021-09-18,Finance,Active,,,DONE,,,DONE,DONE,N/A,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,Chennai,Sales Executive,Sunita Rao,Walk-in,Verified
+PUK1029,Employee 30,2024-04-25,Operations,Active,,,DONE,,,DONE,DONE,DONE,,N/A,DONE,DONE,,DONE,DONE,DONE,DONE,Chennai,Marketing Manager,Priya Sharma,Campus,Follow up needed
+PUK1030,Employee 31,2025-10-29,Marketing,Active,,,DONE,,,,,DONE,,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,Mumbai,HR Executive,Sunita Rao,Campus,
+PUK1031,Employee 32,2022-03-19,Legal,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Hyderabad,Admin Officer,Neha Singh,LinkedIn,Verified
+PUK1032,Employee 33,2023-10-01,Admin,Notice Period,2027-04-28,,DONE,DONE,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Bangalore,Operations Manager,Priya Sharma,Indeed,
+PUK1033,Employee 34,2024-08-25,Finance,Active,,,DONE,,,,DONE,DONE,,DONE,N/A,,DONE,DONE,DONE,DONE,DONE,Delhi,Sales Executive,Neha Singh,Referral,Verified
+PUK1034,Employee 35,2025-09-17,HR,Notice Period,2029-04-14,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,Mumbai,Software Developer,Priya Sharma,LinkedIn,
+PUK1035,Employee 36,2023-04-17,Legal,Hold,,,DONE,,,,DONE,DONE,DONE,DONE,N/A,N/A,DONE,DONE,DONE,DONE,N/A,Mumbai,Operations Manager,Sunita Rao,Indeed,
+PUK1036,Employee 37,2025-07-16,Finance,Active,,,DONE,,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Chennai,Operations Manager,Rahul Gupta,Naukri,Documents pending
+PUK1037,Employee 38,2025-02-27,IT,Notice Period,2026-10-25,,DONE,DONE,,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Delhi,Sales Executive,Rahul Gupta,Indeed,
+PUK1038,Employee 39,2023-01-13,Sales,Active,,,DONE,,,N/A,,DONE,N/A,N/A,,DONE,DONE,DONE,DONE,DONE,N/A,Mumbai,Legal Advisor,Rahul Gupta,Naukri,Follow up needed
+PUK1039,Employee 40,2024-06-20,Marketing,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,,Chennai,Sales Executive,Neha Singh,Campus,Follow up needed
+PUK1040,Employee 41,2026-02-11,Marketing,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,,,Bangalore,Sales Executive,Neha Singh,Campus,
+PUK1041,Employee 42,2025-02-27,HR,Hold,,,DONE,,,DONE,,DONE,,DONE,DONE,,,DONE,DONE,DONE,N/A,Chennai,Accountant,Priya Sharma,Referral,Follow up needed
+PUK1042,Employee 43,2024-07-06,IT,Hold,,,DONE,,,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Mumbai,Operations Manager,Neha Singh,Campus,
+PUK1043,Employee 44,2021-08-14,Legal,Hold,,,DONE,,,,,,DONE,DONE,,N/A,DONE,DONE,DONE,DONE,N/A,Hyderabad,HR Executive,Neha Singh,Campus,
+PUK1044,Employee 45,2022-05-15,Legal,Active,,,DONE,,,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,,Hyderabad,Sales Executive,Neha Singh,Naukri,
+PUK1045,Employee 46,2022-11-18,Operations,Notice Period,2025-04-24,,DONE,DONE,,DONE,DONE,DONE,N/A,DONE,,N/A,DONE,DONE,DONE,DONE,DONE,Chennai,Legal Advisor,Neha Singh,Indeed,
+PUK1046,Employee 47,2025-06-19,HR,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,Delhi,Admin Officer,Sunita Rao,Walk-in,
+PUK1047,Employee 48,2022-11-02,IT,Active,,,DONE,,,DONE,N/A,N/A,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Pune,Sales Executive,Neha Singh,Indeed,Follow up needed
+PUK1048,Employee 49,2021-10-01,Operations,Active,,,DONE,,,DONE,DONE,DONE,,,DONE,N/A,DONE,,DONE,DONE,DONE,Chennai,Marketing Manager,Amit Verma,Naukri,
+PUK1049,Employee 50,2024-08-02,Finance,Notice Period,2027-09-26,,DONE,DONE,,,N/A,DONE,DONE,DONE,DONE,N/A,,,DONE,,,Hyderabad,HR Executive,Amit Verma,LinkedIn,Verified
+PUK1050,Employee 51,2022-05-11,Marketing,Notice Period,2025-05-28,,DONE,DONE,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Marketing Manager,Neha Singh,LinkedIn,Verified
+PUK1051,Employee 52,2026-01-24,IT,Notice Period,2029-06-27,,DONE,DONE,,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Chennai,Accountant,Rahul Gupta,Indeed,
+PUK1052,Employee 53,2021-09-29,Legal,Active,,,,,,DONE,,DONE,DONE,DONE,DONE,N/A,DONE,,DONE,DONE,DONE,Delhi,Admin Officer,Priya Sharma,Indeed,
+PUK1053,Employee 54,2022-10-27,Sales,Notice Period,2023-10-05,,DONE,DONE,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,,DONE,Mumbai,Accountant,Neha Singh,Referral,
+PUK1054,Employee 55,2025-10-20,Finance,Notice Period,2026-10-07,,DONE,DONE,,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Operations Manager,Neha Singh,Naukri,Verified
+PUK1055,Employee 56,2022-01-10,IT,Hold,,,DONE,,,N/A,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,Pune,Marketing Manager,Rahul Gupta,Walk-in,Documents pending
+PUK1056,Employee 57,2024-10-07,Legal,Active,,,DONE,,,DONE,N/A,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Hyderabad,Marketing Manager,Sunita Rao,Referral,
+PUK1057,Employee 58,2022-07-27,HR,Active,,,DONE,,,DONE,DONE,,DONE,DONE,DONE,N/A,DONE,DONE,DONE,,N/A,Hyderabad,Sales Executive,Sunita Rao,Walk-in,
+PUK1058,Employee 59,2024-06-12,Operations,Active,,,DONE,,,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Chennai,Sales Executive,Neha Singh,Indeed,Verified
+PUK1059,Employee 60,2024-12-02,Finance,Active,,,DONE,,,,N/A,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,Hyderabad,Marketing Manager,Amit Verma,Referral,
+PUK1060,Employee 61,2022-05-17,HR,Active,,,,,,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Pune,Admin Officer,Neha Singh,Indeed,
+PUK1061,Employee 62,2026-03-01,Legal,Active,,,,,,DONE,DONE,N/A,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Marketing Manager,Priya Sharma,Campus,Verified
+PUK1062,Employee 63,2026-03-08,Sales,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,,DONE,,Bangalore,HR Executive,Rahul Gupta,Naukri,
+PUK1063,Employee 64,2023-12-23,HR,Exited,2027-01-16,2027-03-17,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,,,DONE,Mumbai,Software Developer,Amit Verma,LinkedIn,Documents pending
+PUK1064,Employee 65,2025-07-24,HR,Hold,,,DONE,,,,DONE,,,DONE,N/A,DONE,DONE,DONE,,DONE,DONE,Delhi,Admin Officer,Rahul Gupta,Indeed,
+PUK1065,Employee 66,2021-12-15,Sales,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,N/A,Pune,Sales Executive,Rahul Gupta,Walk-in,Verified
+PUK1066,Employee 67,2025-05-13,Admin,Active,,,DONE,,,N/A,DONE,,,N/A,DONE,,DONE,DONE,,DONE,DONE,Bangalore,Marketing Manager,Sunita Rao,Campus,Follow up needed
+PUK1067,Employee 68,2022-01-28,Sales,Active,,,DONE,,,DONE,DONE,DONE,,DONE,,,,,DONE,DONE,DONE,Bangalore,Software Developer,Rahul Gupta,LinkedIn,Documents pending
+PUK1068,Employee 69,2022-06-12,IT,Active,,,DONE,,,DONE,DONE,DONE,,N/A,N/A,N/A,DONE,DONE,DONE,DONE,DONE,Mumbai,Marketing Manager,Rahul Gupta,LinkedIn,
+PUK1069,Employee 70,2025-08-25,HR,Active,,,DONE,,,,DONE,DONE,,DONE,DONE,N/A,DONE,DONE,DONE,DONE,,Chennai,Accountant,Rahul Gupta,Naukri,Follow up needed
+PUK1070,Employee 71,2024-05-17,Admin,Notice Period,2026-07-12,,DONE,DONE,,,,DONE,DONE,N/A,,N/A,DONE,DONE,DONE,DONE,,Hyderabad,Legal Advisor,Amit Verma,LinkedIn,Documents pending
+PUK1071,Employee 72,2025-08-23,IT,Hold,,,DONE,,,DONE,DONE,N/A,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,Mumbai,Admin Officer,Sunita Rao,Naukri,Follow up needed
+PUK1072,Employee 73,2026-02-13,Marketing,Active,,,DONE,,,N/A,DONE,DONE,N/A,N/A,DONE,,DONE,DONE,,DONE,DONE,Pune,Admin Officer,Rahul Gupta,Walk-in,
+PUK1073,Employee 74,2025-12-22,IT,Active,,,DONE,,,DONE,N/A,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,,Hyderabad,Sales Executive,Neha Singh,Walk-in,
+PUK1074,Employee 75,2022-05-23,IT,Active,,,DONE,,,DONE,DONE,DONE,,DONE,N/A,DONE,DONE,DONE,,DONE,DONE,Hyderabad,Sales Executive,Rahul Gupta,Referral,
+PUK1075,Employee 76,2022-03-25,Marketing,Active,,,DONE,,,DONE,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Pune,Admin Officer,Amit Verma,LinkedIn,
+PUK1076,Employee 77,2022-05-28,Admin,Hold,,,DONE,,,DONE,,N/A,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,N/A,Delhi,Marketing Manager,Sunita Rao,Naukri,
+PUK1077,Employee 78,2023-12-21,Admin,Active,,,,,,DONE,N/A,DONE,DONE,N/A,DONE,,DONE,DONE,DONE,,DONE,Bangalore,HR Executive,Priya Sharma,Referral,Verified
+PUK1078,Employee 79,2024-10-05,Admin,Active,,,DONE,,,DONE,,DONE,DONE,N/A,DONE,N/A,DONE,,,DONE,,Bangalore,Accountant,Priya Sharma,LinkedIn,Documents pending
+PUK1079,Employee 80,2022-08-14,Admin,Hold,,,DONE,,,DONE,,DONE,DONE,DONE,DONE,,,DONE,DONE,DONE,DONE,Hyderabad,Marketing Manager,Sunita Rao,LinkedIn,
+PUK1080,Employee 81,2026-04-10,Admin,Notice Period,2028-02-20,,DONE,DONE,,N/A,DONE,,,DONE,DONE,,,DONE,DONE,DONE,DONE,Pune,Admin Officer,Priya Sharma,Indeed,
+PUK1081,Employee 82,2022-09-04,HR,Active,,,DONE,,,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,Bangalore,Marketing Manager,Rahul Gupta,Walk-in,
+PUK1082,Employee 83,2022-12-27,HR,Active,,,DONE,,,N/A,,DONE,,,DONE,N/A,DONE,DONE,DONE,DONE,N/A,Chennai,Accountant,Amit Verma,Campus,Documents pending
+PUK1083,Employee 84,2021-07-20,HR,Active,,,DONE,,,DONE,DONE,N/A,DONE,N/A,DONE,DONE,DONE,DONE,,DONE,,Chennai,HR Executive,Neha Singh,Indeed,
+PUK1084,Employee 85,2023-02-06,Finance,Exited,2024-10-13,2024-12-12,DONE,DONE,,DONE,N/A,DONE,,DONE,DONE,,DONE,DONE,DONE,DONE,,Hyderabad,Software Developer,Sunita Rao,Campus,
+PUK1085,Employee 86,2021-11-27,Legal,Hold,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,,DONE,Bangalore,HR Executive,Sunita Rao,LinkedIn,Follow up needed
+PUK1086,Employee 87,2025-09-25,Admin,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Admin Officer,Rahul Gupta,Referral,Follow up needed
+PUK1087,Employee 88,2026-04-16,Legal,Active,,,DONE,,,N/A,DONE,DONE,DONE,DONE,N/A,,DONE,DONE,,DONE,N/A,Pune,Marketing Manager,Rahul Gupta,Referral,
+PUK1088,Employee 89,2024-03-04,Operations,Active,,,DONE,,,DONE,DONE,DONE,DONE,,DONE,,DONE,DONE,DONE,,DONE,Bangalore,Accountant,Amit Verma,Walk-in,Documents pending
+PUK1089,Employee 90,2024-03-02,Sales,Exited,2025-03-19,2025-05-18,DONE,DONE,,,DONE,DONE,N/A,DONE,N/A,DONE,DONE,DONE,,DONE,DONE,Chennai,Admin Officer,Neha Singh,Referral,Follow up needed
+PUK1090,Employee 91,2021-11-05,Marketing,Active,,,DONE,,,DONE,DONE,DONE,N/A,N/A,DONE,DONE,DONE,DONE,,DONE,DONE,Delhi,Admin Officer,Amit Verma,Walk-in,Verified
+PUK1091,Employee 92,2022-05-18,Finance,Exited,2025-04-30,2025-06-29,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,,Pune,Accountant,Neha Singh,LinkedIn,Documents pending
+PUK1092,Employee 93,2024-08-06,Legal,Notice Period,2028-02-06,,DONE,DONE,,DONE,N/A,DONE,DONE,,,,DONE,DONE,DONE,DONE,DONE,Mumbai,Software Developer,Sunita Rao,Indeed,
+PUK1093,Employee 94,2022-07-20,Marketing,Notice Period,2026-02-10,,DONE,DONE,,DONE,N/A,,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,Pune,HR Executive,Sunita Rao,Campus,Verified
+PUK1094,Employee 95,2024-12-24,Operations,Notice Period,2028-06-27,,DONE,DONE,,DONE,N/A,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Pune,Admin Officer,Priya Sharma,Indeed,
+PUK1095,Employee 96,2026-05-23,Legal,Exited,2028-02-05,2028-04-05,DONE,DONE,,DONE,DONE,,DONE,DONE,DONE,,DONE,DONE,DONE,,DONE,Mumbai,Legal Advisor,Amit Verma,Naukri,Follow up needed
+PUK1096,Employee 97,2022-01-01,Finance,Active,,,,,,N/A,N/A,N/A,DONE,DONE,DONE,N/A,DONE,,DONE,DONE,N/A,Chennai,Admin Officer,Sunita Rao,LinkedIn,
+PUK1097,Employee 98,2024-07-25,Admin,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,Delhi,Accountant,Amit Verma,Campus,
+PUK1098,Employee 99,2025-01-10,IT,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Pune,Software Developer,Priya Sharma,Indeed,
+PUK1099,Employee 100,2024-05-11,Operations,Exited,2026-06-02,2026-08-01,,DONE,DONE,DONE,N/A,DONE,,N/A,,,DONE,DONE,DONE,DONE,,Chennai,Admin Officer,Neha Singh,Indeed,
+PUK1100,Employee 101,2025-12-25,Sales,Exited,2027-06-07,2027-08-06,DONE,DONE,,DONE,DONE,DONE,N/A,DONE,,,DONE,,DONE,DONE,DONE,Hyderabad,Admin Officer,Neha Singh,Naukri,Documents pending
+PUK1101,Employee 102,2023-10-30,Sales,Notice Period,2026-05-18,,DONE,DONE,,,,DONE,DONE,DONE,DONE,N/A,,DONE,,DONE,DONE,Mumbai,Legal Advisor,Sunita Rao,Campus,Follow up needed
+PUK1102,Employee 103,2021-07-18,Legal,Active,,,DONE,,,N/A,N/A,DONE,N/A,DONE,N/A,DONE,DONE,,,DONE,N/A,Hyderabad,Legal Advisor,Neha Singh,Campus,
+PUK1103,Employee 104,2025-01-12,Marketing,Active,,,DONE,,,DONE,N/A,,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,Pune,Sales Executive,Amit Verma,Indeed,
+PUK1104,Employee 105,2024-03-01,Operations,Active,,,DONE,,,,,DONE,N/A,DONE,N/A,DONE,DONE,DONE,,DONE,N/A,Pune,Operations Manager,Rahul Gupta,Referral,
+PUK1105,Employee 106,2026-01-29,Legal,Exited,2027-11-18,2028-01-17,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,Mumbai,Admin Officer,Priya Sharma,Walk-in,Follow up needed
+PUK1106,Employee 107,2024-01-31,Finance,Exited,2027-11-16,2028-01-15,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,,Chennai,Operations Manager,Rahul Gupta,LinkedIn,
+PUK1107,Employee 108,2024-09-20,Operations,Active,,,,,,N/A,DONE,N/A,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,Bangalore,Software Developer,Sunita Rao,Referral,Documents pending
+PUK1108,Employee 109,2023-08-19,HR,Active,,,DONE,,,DONE,,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,,Bangalore,Accountant,Amit Verma,Referral,
+PUK1109,Employee 110,2024-04-16,Admin,Exited,2026-06-28,2026-08-27,DONE,DONE,,DONE,,DONE,,,DONE,,DONE,DONE,DONE,DONE,N/A,Pune,Sales Executive,Neha Singh,Naukri,
+PUK1110,Employee 111,2021-10-31,Sales,Notice Period,2022-12-04,,DONE,DONE,,N/A,DONE,,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,Chennai,Legal Advisor,Priya Sharma,Naukri,Documents pending
+PUK1111,Employee 112,2022-05-15,IT,Active,,,DONE,,,,DONE,,N/A,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Bangalore,Legal Advisor,Rahul Gupta,Walk-in,
+PUK1112,Employee 113,2022-07-06,IT,Active,,,DONE,,,N/A,DONE,N/A,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Bangalore,HR Executive,Neha Singh,Naukri,
+PUK1113,Employee 114,2025-03-27,Admin,Hold,,,DONE,,,N/A,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,,,Delhi,Software Developer,Amit Verma,Walk-in,
+PUK1114,Employee 115,2023-03-30,Legal,Hold,,,DONE,,,DONE,DONE,,,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,Chennai,Legal Advisor,Sunita Rao,Naukri,Verified
+PUK1115,Employee 116,2024-11-20,Admin,Hold,,,DONE,,,DONE,N/A,DONE,,DONE,DONE,,DONE,DONE,DONE,DONE,,Pune,Accountant,Rahul Gupta,Referral,
+PUK1116,Employee 117,2025-10-27,Sales,Active,,,,,,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Hyderabad,Sales Executive,Sunita Rao,Campus,Follow up needed
+PUK1117,Employee 118,2022-01-19,Operations,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Pune,Admin Officer,Neha Singh,Walk-in,
+PUK1118,Employee 119,2023-11-08,Finance,Active,,,DONE,,,N/A,DONE,DONE,,DONE,DONE,,DONE,,DONE,DONE,N/A,Mumbai,Admin Officer,Sunita Rao,LinkedIn,Follow up needed
+PUK1119,Employee 120,2024-08-18,Admin,Active,,,,,,,DONE,DONE,,DONE,N/A,DONE,,DONE,DONE,DONE,,Pune,Operations Manager,Rahul Gupta,Referral,Verified
+PUK1120,Employee 121,2026-01-12,Legal,Hold,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,N/A,Hyderabad,Sales Executive,Sunita Rao,Indeed,Documents pending
+PUK1121,Employee 122,2023-02-02,HR,Notice Period,2024-05-21,,DONE,DONE,,DONE,DONE,DONE,DONE,N/A,,DONE,DONE,,DONE,DONE,DONE,Chennai,Operations Manager,Rahul Gupta,Referral,Follow up needed
+PUK1122,Employee 123,2023-10-28,Finance,Hold,,,DONE,,,DONE,DONE,DONE,N/A,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,Hyderabad,Admin Officer,Sunita Rao,Naukri,
+PUK1123,Employee 124,2026-03-03,HR,Hold,,,DONE,,,DONE,DONE,,N/A,,DONE,DONE,DONE,DONE,DONE,,,Mumbai,Legal Advisor,Rahul Gupta,Naukri,Verified
+PUK1124,Employee 125,2022-12-23,Admin,Active,,,DONE,,,DONE,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Hyderabad,Marketing Manager,Neha Singh,Campus,Documents pending
+PUK1125,Employee 126,2024-03-21,Marketing,Exited,2025-09-05,2025-11-04,DONE,DONE,DONE,DONE,DONE,,N/A,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Accountant,Neha Singh,Campus,Follow up needed
+PUK1126,Employee 127,2025-05-18,Finance,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Pune,Admin Officer,Rahul Gupta,Indeed,Follow up needed
+PUK1127,Employee 128,2023-09-06,HR,Active,,,DONE,,,,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Marketing Manager,Neha Singh,Naukri,Verified
+PUK1128,Employee 129,2023-12-12,Legal,Exited,2025-12-28,2026-02-26,DONE,DONE,,,DONE,N/A,DONE,DONE,,DONE,,DONE,DONE,,DONE,Bangalore,Legal Advisor,Amit Verma,Walk-in,
+PUK1129,Employee 130,2022-01-07,Operations,Active,,,DONE,,,DONE,DONE,DONE,DONE,N/A,DONE,DONE,,DONE,,,DONE,Hyderabad,Sales Executive,Sunita Rao,Indeed,
+PUK1130,Employee 131,2022-06-27,Finance,Hold,,,DONE,,,DONE,,,,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,Chennai,Software Developer,Sunita Rao,Campus,Follow up needed
+PUK1131,Employee 132,2024-08-01,HR,Exited,2025-06-02,2025-08-01,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,Hyderabad,Marketing Manager,Priya Sharma,Naukri,
+PUK1132,Employee 133,2022-11-28,Admin,Hold,,,DONE,,,N/A,DONE,DONE,N/A,DONE,N/A,N/A,DONE,DONE,,,DONE,Bangalore,Software Developer,Priya Sharma,Referral,Verified
+PUK1133,Employee 134,2022-10-13,Sales,Active,,,DONE,,,DONE,,DONE,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,,Delhi,Legal Advisor,Amit Verma,Campus,
+PUK1134,Employee 135,2025-02-19,HR,Active,,,DONE,,,DONE,DONE,N/A,DONE,,,DONE,,DONE,DONE,DONE,,Hyderabad,Marketing Manager,Amit Verma,Indeed,Verified
+PUK1135,Employee 136,2025-07-27,Admin,Active,,,DONE,,,DONE,DONE,,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,Chennai,Software Developer,Priya Sharma,Indeed,
+PUK1136,Employee 137,2025-04-08,Operations,Exited,2028-12-11,2029-02-09,DONE,DONE,DONE,DONE,N/A,N/A,DONE,DONE,DONE,DONE,DONE,,,,DONE,Chennai,Legal Advisor,Sunita Rao,Walk-in,Verified
+PUK1137,Employee 138,2025-06-14,Admin,Hold,,,,,,,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,,Delhi,Accountant,Sunita Rao,Naukri,
+PUK1138,Employee 139,2025-12-23,Finance,Exited,2027-12-09,2028-02-07,DONE,DONE,DONE,DONE,,,DONE,DONE,,N/A,DONE,DONE,DONE,DONE,DONE,Bangalore,Accountant,Priya Sharma,Naukri,Verified
+PUK1139,Employee 140,2025-08-25,Finance,Notice Period,2026-07-14,,DONE,DONE,,DONE,DONE,,DONE,DONE,,N/A,DONE,DONE,,DONE,DONE,Chennai,HR Executive,Sunita Rao,Indeed,Documents pending
+PUK1140,Employee 141,2022-11-25,Admin,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,Mumbai,Sales Executive,Rahul Gupta,Referral,Follow up needed
+PUK1141,Employee 142,2025-07-30,Sales,Active,,,DONE,,,N/A,,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,,DONE,Chennai,Sales Executive,Rahul Gupta,Naukri,Follow up needed
+PUK1142,Employee 143,2021-07-25,IT,Active,,,DONE,,,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,Mumbai,Accountant,Priya Sharma,Campus,
+PUK1143,Employee 144,2025-02-10,Sales,Exited,2027-11-16,2028-01-15,,DONE,DONE,DONE,N/A,,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,N/A,Chennai,Legal Advisor,Sunita Rao,Campus,Verified
+PUK1144,Employee 145,2025-12-11,Finance,Exited,2027-04-20,2027-06-19,DONE,DONE,DONE,DONE,DONE,DONE,DONE,DONE,N/A,N/A,DONE,DONE,DONE,DONE,DONE,Mumbai,Accountant,Neha Singh,Naukri,
+PUK1145,Employee 146,2025-10-29,Admin,Active,,,DONE,,,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,Bangalore,Accountant,Priya Sharma,Indeed,
+PUK1146,Employee 147,2024-06-04,Sales,Active,,,DONE,,,DONE,N/A,DONE,DONE,DONE,,DONE,DONE,DONE,DONE,DONE,,Mumbai,Accountant,Amit Verma,Campus,
+PUK1147,Employee 148,2022-07-28,IT,Notice Period,2023-11-12,,,DONE,,DONE,N/A,DONE,DONE,,DONE,N/A,DONE,DONE,,DONE,N/A,Hyderabad,Legal Advisor,Rahul Gupta,Naukri,Follow up needed
+PUK1148,Employee 149,2022-08-03,Finance,Active,,,DONE,,,N/A,DONE,DONE,DONE,DONE,DONE,,DONE,,DONE,DONE,DONE,Hyderabad,Operations Manager,Neha Singh,LinkedIn,Verified
+PUK1149,Employee 150,2021-12-03,Legal,Exited,2022-11-07,2023-01-06,DONE,DONE,DONE,DONE,DONE,N/A,DONE,DONE,DONE,DONE,DONE,,DONE,DONE,N/A,Chennai,Marketing Manager,Neha Singh,LinkedIn,
